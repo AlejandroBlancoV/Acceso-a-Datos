@@ -1,0 +1,2 @@
+Ahora puede instalar todo lo que necesita para ejecutar WSL con un solo comando. Abra PowerShell o el símbolo del sistema de Windows como administrador; 
+para ello, haga clic con el botón derecho y seleccione "Ejecutar como administrador", escriba el comando wsl --install y reinicie la máquina.
