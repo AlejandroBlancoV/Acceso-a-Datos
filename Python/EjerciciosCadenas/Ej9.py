@@ -1,0 +1,5 @@
+fechaNac=(input("Ingrese su fecha de nacimiento en formato dd/mm/aaaa: "))
+arrayFecha=fechaNac.split('/')
+print("Día: ",arrayFecha[0])
+print("Mes: ",arrayFecha[1])
+print("Año: ",arrayFecha[2])
